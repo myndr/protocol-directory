@@ -1,0 +1,23 @@
+{
+  "service_types":{
+    "chat": 100,
+    "notif":80,
+  }
+  ,"alias":[]
+  ,"shared_port": false
+  ,"port_definition":{"tcp":[]}
+  ,"shared_ip": false
+  ,"ip_definition":[
+    "149.154.160.0/20",
+    "149.154.164.0/22",
+    "91.108.4.0/22",
+    "91.108.56.0/22",
+    "91.108.8.0/22"
+  ]
+  ,"ipv6_definition":[
+    "2001:67c:4e8::/48"
+  ]
+  ,"dpi":{
+    "ndpi":["telegram"]
+  }
+}

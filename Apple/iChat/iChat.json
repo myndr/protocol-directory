@@ -1,0 +1,11 @@
+{
+  "service_types":{
+    "chat":100
+  }
+  ,"alias" : [ "XMPP"]
+  ,"versions":[]
+  ,"shared_port": false
+  ,"port_definition":{"tcp":[5060, 5190, 5297, 5298, 5678, "16384-16403"]}
+  ,"shared_ip": true
+  ,"ip_definition":["17.0.0.0/8"]
+}

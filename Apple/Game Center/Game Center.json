@@ -1,0 +1,13 @@
+{
+  "service_types":{
+    "notif":100
+  }
+  ,"versions":[]
+  ,"shared_port": false
+  ,"port_definition":{"tcp":["3478-3497",4398,"16384-16387","16393-16402","16403-16472"]}
+  ,"shared_ip": true
+  ,"ip_definition":["17.0.0.0/8"]
+  ,"dpi":{
+    "ndpi":[]
+  }
+}

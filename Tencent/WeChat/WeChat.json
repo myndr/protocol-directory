@@ -1,0 +1,18 @@
+{
+  "service_types":{
+    "chat": 100,
+    "news-prs":90,
+    "notif":80,
+    "video":20
+  }
+  ,"alias":[]
+  ,"shared_port": false
+  ,"port_definition":{"tcp":[]}
+  ,"shared_ip": false
+  ,"ip_definition":[
+    "203.205.147.173"
+  ]
+  ,"dpi":{
+    "ndpi":[]
+  }
+}

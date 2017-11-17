@@ -1,0 +1,10 @@
+{
+  "service_types":{
+    "notif":100
+    }
+  ,"versions":[]
+  ,"shared_port": true
+  ,"port_definition":{"tcp":[5223,2195,2196,443]}
+  ,"shared_ip": true
+  ,"ip_definition":["17.0.0.0/8"]
+}

@@ -1,0 +1,18 @@
+{
+  "service_types":{
+    "video":80,
+    "game":80
+    }
+,"alias":[]
+  ,"versions":[]
+  ,"shared_port": true
+  ,"port_definition":{"tcp":[]}
+  ,"shared_ip": true
+  ,"ip_definition":[
+  ]
+  ,"ipv6_definition":[
+  ]
+  ,"dpi":{
+    "ndpi":["flash"]
+  }
+}

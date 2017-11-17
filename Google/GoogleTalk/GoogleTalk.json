@@ -1,0 +1,9 @@
+{
+  "service_types":{
+    "chat":90
+    }
+  ,"alias" : [
+    "XMPP"
+  ]
+  ,"rights_management":false
+}

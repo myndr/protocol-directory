@@ -1,0 +1,18 @@
+{
+  "service_types":{
+    "news-prs":90,
+    "chat": 80,
+    "notif":80,
+    "video":20
+    }
+  ,"alias":[]
+  ,"shared_port": false
+  ,"port_definition":{"tcp":[]}
+  ,"shared_ip": false
+  ,"ip_definition":[
+    "64.60.9.88-64.60.9.91"
+  ]
+  ,"dpi":{
+    "ndpi":["snapchat"]
+  }
+}
