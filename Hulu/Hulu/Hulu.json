@@ -2,7 +2,7 @@
   "service_types":{
     "video":100
     }
-,"alias":[]
+  ,"alias":[]
   ,"versions":[]
   ,"shared_port": false
   ,"port_definition":{"tcp":[]}

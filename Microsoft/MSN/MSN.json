@@ -1,7 +1,7 @@
 {
   "service_types":{
     "chat": 100,
-    "notif":80,
+    "notif":80
   }
   ,"alias":[]
   ,"shared_port": false

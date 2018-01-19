@@ -9,6 +9,8 @@
     "ads":20
     }
   ,"versions":[]
+,"shared_domain": false
+,"domain_definition":["facebook.com"]
   ,"shared_ip": true
   ,"ip_definition": [
     "146.88.59.0/24",
