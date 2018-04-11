@@ -1,0 +1,111 @@
+{
+  "service_types": {
+    "notif":{
+      "name": "Push notifications",
+      "description": "Push notification. Short data message. (WhatsApp, Twitter, Facebook Messenger, etc.)",
+      "proprietary": {
+        "secucloud":{
+          "categories":[
+            "Instant Messaging", "Social Networking"
+          ]
+        }
+      }
+    },
+    "sms":{
+      "name": "SMS / Short message service",
+      "description": "SMS	 (Including escalated Twitter messages)",
+      "proprietary": {
+
+      }
+    },
+    "email":{
+      "name": "Email",
+      "description": "Long messages",
+      "proprietary": {
+        "secucloud":{
+          "categories":[
+            "Web-based Email"
+          ]
+        }
+      }
+    },
+    "audio":{
+      "name": "Audio ",
+      "description": "Streaming audio. (Spotify, Apple Music, Pandora, etc.)",
+      "proprietary": {
+        "secucloud":{
+          "categories":[
+            "Streaming Media & Downloads"
+          ]
+        }
+      }
+    },
+    "video":{
+      "name": "Video",
+      "description": "Streaming video. (YouTube, Vimeo, Netflix, Hulu, etc.)",
+      "proprietary": {
+        "secucloud":{
+          "categories":[
+            "Streaming Media & Downloads"
+          ]
+        }
+      }
+    },
+    "www-safe":{
+      "name": "Safe websites",
+      "description": "Safe websites",
+      "proprietary": {
+
+      }
+    },
+    "www":{
+      "name": "Websites",
+      "description": "Unfiltered websites",
+      "proprietary": {
+
+      }
+    },
+    "phone":{
+      "name": "Phone",
+      "description": "Talk to each other",
+      "proprietary": {
+
+      }
+    },
+    "news-intl":{
+      "name": "International news",
+      "description": "Breaking international news messages",
+      "proprietary": {
+
+      }
+    },
+    "news-ntl":{
+      "name": "National news",
+      "description": "Breaking national news messages",
+      "proprietary": {
+
+      }
+    },
+    "news-lcl":{
+      "name": "Local news",
+      "description": "Breaking local news messages",
+      "proprietary": {
+
+      }
+    },
+    "news-prs":{
+      "name": "Social media",
+      "description": "Breaking personal news messages / social media updates",
+      "proprietary": {
+
+      }
+    },
+    "game":{
+      "name": "Gaming",
+      "description": "Games with an online component and game networks",
+      "proprietary": {
+
+      }
+    }
+  }
+}

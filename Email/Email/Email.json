@@ -7,7 +7,7 @@
   ,"port_definition":{"tcp":["110","995","143","993","25"]}
   ,"shared_ip": true
   ,"ip_definition":[]
-  ,"dpi":{
+  ,"proprietary":{
     "ndpi":["pop","smtp","imap","hotmail","pops","smtps","imaps","gmail"]
   }
 }

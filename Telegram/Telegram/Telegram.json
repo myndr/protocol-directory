@@ -17,7 +17,7 @@
   ,"ipv6_definition":[
     "2001:67c:4e8::/48"
   ]
-  ,"dpi":{
+  ,"proprietary":{
     "ndpi":["telegram"]
   }
 }

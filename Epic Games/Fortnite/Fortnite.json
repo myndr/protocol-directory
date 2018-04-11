@@ -9,7 +9,10 @@
   }
   ,"shared_ip": true
   ,"ip_definition":[]
+  ,"shared_domain": false
+  ,"domain_definition": [
+    "fortnite.com",
+    "*.fortnite.com"]
   ,"proprietary":{
-    "ndpi":["halflife2"]
   }
 }

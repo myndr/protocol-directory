@@ -12,7 +12,7 @@
   ,"ip_definition":[
     "64.60.9.88-64.60.9.91"
   ]
-  ,"dpi":{
+  ,"proprietary":{
     "ndpi":["snapchat"]
   }
 }

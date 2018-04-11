@@ -3,7 +3,7 @@
     "video":80,
     "game":80
     }
-,"alias":[]
+  ,"alias":[]
   ,"versions":[]
   ,"shared_port": true
   ,"port_definition":{"tcp":[]}
@@ -12,7 +12,7 @@
   ]
   ,"ipv6_definition":[
   ]
-  ,"dpi":{
+  ,"proprietary":{
     "ndpi":["flash"]
   }
 }
