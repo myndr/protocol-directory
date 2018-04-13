@@ -1,18 +1,21 @@
 {
-  "service_types":{
-    "news-prs":90,
-    "notif":80,
-    "video":20,
-    "game":60,
-    "chat":60,
-    "email":40,
-    "ads":20
-    }
-  ,"versions":[]
-,"shared_domain": false
-,"domain_definition":["facebook.com"]
-  ,"shared_ip": true
-  ,"ip_definition": [
+  "service_types": {
+    "news-prs": 90,
+    "notif": 80,
+    "video": 20,
+    "game": 60,
+    "chat": 60,
+    "email": 40,
+    "ads": 20
+  },
+  "versions": [],
+  "shared_domain": false,
+  "domain_definition": [
+    "facebook.com",
+    "*.facebook.com"
+  ],
+  "shared_ip": true,
+  "ip_definition": [
     "146.88.59.0/24",
     "157.240.0.0/17",
     "157.240.0.0/24",
@@ -103,8 +106,10 @@
     "69.63.176.0/21",
     "69.63.184.0/21",
     "74.119.76.0/22"
-  ]
-  ,"proprietary":{
-    "ndpi":["facebook"]
+  ],
+  "proprietary": {
+    "ndpi": [
+      "facebook"
+    ]
   }
 }
