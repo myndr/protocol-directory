@@ -1,0 +1,19 @@
+{
+  "service_types": {
+    "video": 90
+  },
+  "versions": [],
+  "shared_port": true,
+  "port_definition": {
+    "tcp": []
+  },
+  "shared_ip": true,
+  "ip_definition": [],
+  "shared_domain": false,
+  "domain_definition": [
+    "dumpert.nl",
+    "*.dumpert.nl"
+  ],
+  "proprietary": {
+  }
+}
