@@ -1,0 +1,6 @@
+{
+  "service_types":{
+    "www":100
+  }
+,"dns_forwarding": ["8.8.8.8","8.8.4.4"]
+}

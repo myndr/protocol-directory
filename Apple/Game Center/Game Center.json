@@ -1,6 +1,6 @@
 {
   "service_types":{
-    "notif":100
+    "game":100
   }
   ,"versions":[]
   ,"shared_port": false
