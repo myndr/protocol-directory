@@ -90,6 +90,13 @@
       "description": "Games with an online component and game networks",
       "proprietary": {
       }
+    },
+    "chat": {
+      "index": 4400,
+      "name": "Chat",
+      "description": "Quick, interactive conversations with mostly short messages",
+      "proprietary": {
+      }
     }
   }
 }
