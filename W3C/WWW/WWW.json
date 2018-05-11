@@ -3,7 +3,7 @@
     "www": 100,
     "www-bl": 100
   },
-  "shared_domain": false,
+  "shared_domain": true,
   "domain_definition": [
     "#"
   ]
