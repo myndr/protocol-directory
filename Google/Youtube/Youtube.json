@@ -5,6 +5,13 @@
     "notif":20
     }
   ,"alias":[]
+  "shared_domain": false,
+  "domain_definition": [
+    "youtube.com",
+    "*.youtube.com",
+    "*.ytimg.com",
+    "*.ggpht.com"
+  ],
   ,"shared_port": false
   ,"port_definition":{"tcp":[]}
   ,"shared_ip": true
