@@ -5,8 +5,8 @@
     "notif":20
     }
   ,"alias":[]
-  ,"shared_domain": false,
-  "domain_definition": [
+  ,"shared_domain": false
+  ,"domain_definition": [
     "youtube.com",
     "*.youtube.com",
     "*.ytimg.com",

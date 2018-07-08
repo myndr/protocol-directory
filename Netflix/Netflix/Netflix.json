@@ -4,6 +4,13 @@
     }
 ,"alias":[]
   ,"versions":[]
+  ,"shared_domain": false
+  ,"domain_definition": [
+    "netflix.com",
+    "*.netflix.com",
+    "*.nflxext.com",
+    "*.nflxso.net"
+  ]
   ,"shared_port": false
   ,"port_definition":{"tcp":[]}
   ,"shared_ip": false
