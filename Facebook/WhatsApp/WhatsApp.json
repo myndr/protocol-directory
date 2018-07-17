@@ -6,6 +6,10 @@
     "email":20
     }
   ,"alias":["FunXMPP"]
+  ,"shared_domain": false, "domain_definition": [
+    "whatsapp.com",
+    "*.whatsapp.com"
+  ]
   ,"shared_port": false
   ,"port_definition":{"tcp":[]}
   ,"shared_ip": false
