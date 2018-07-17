@@ -7,12 +7,12 @@
     "ads":20
     }
   ,"versions":[]
-  "shared_domain": false,
-  "domain_definition": [
+  ,"shared_domain": false
+  ,"domain_definition": [
     "instagram.com",
     "*.instagram.com",
     "instagram.*.fbcdn.net"
-  ],
+  ]
   ,"shared_ip": false
   ,"ip_definition": [
     "52.72.43.115","52.7.213.154","52.6.89.236","52.72.200.207",

@@ -6,14 +6,15 @@
     "news-prs": 100,
     "game": 100,
     "chat": 100
-  },
-  "shared_domain": false,
-  "domain_definition": [
+  }
+  ,"versions":[]
+  ,"shared_domain": false
+  ,"domain_definition": [
     "ultrasurf.us",
     "ultrasurfing.com",
     "ultrasurfchrome.s3.amazonaws.com",
     "cribporksake.info",
     "heftinesscongresscandy.info",
-    "bazookariddancelividly.info",
+    "bazookariddancelividly.info"
   ]
 }
