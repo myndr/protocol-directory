@@ -11,7 +11,7 @@
     "*.whatsapp.com"
   ]
   ,"shared_port": false
-  ,"port_definition":{"tcp":[]}
+  ,"port_definition":{"tcp":[5222,5223,5228,5242]}
   ,"shared_ip": false
   ,"ip_definition":[
     "108.168.174.0/27",
