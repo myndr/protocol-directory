@@ -5,5 +5,9 @@
   ,"alias" : [
     "XMPP"
   ]
+  ,"shared_domain": false
+  ,"domain_definition": [
+    "talk.l.google.com"
+  ]
   ,"rights_management":false
 }

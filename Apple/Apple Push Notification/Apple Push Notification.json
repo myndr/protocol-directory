@@ -8,5 +8,10 @@
   ,"shared_ip": true
   ,"ip_definition":["17.0.0.0/8"]
   ,"shared_domain": false
-  ,"domain_definition": ["gateway.push.apple.com", "gateway.sandbox.push.apple.com"]
+  ,"domain_definition": [
+    "gateway.push.apple.com",
+    "*.push.apple.com",
+    "push-apple.com.akadns.net",
+    "*.push-apple.com.akadns.net"
+  ]
 }

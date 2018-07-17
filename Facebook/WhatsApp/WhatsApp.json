@@ -8,13 +8,13 @@
   ,"alias":["FunXMPP"]
   ,"shared_domain": false, "domain_definition": [
     "whatsapp.com",
+  "*.whatsapp.com",
     "whatsapp.net",
     "*.whatsapp.net",
     "whatsapp.org",
-    "*.whatsapp.org",
-  "*.whatsapp.com"
+    "*.whatsapp.org"
   ]
-  ,"shared_port": false
+  ,"shared_port": true
   ,"port_definition":{"tcp":[5222,5223,5228,5242]}
   ,"shared_ip": false
   ,"ip_definition":[

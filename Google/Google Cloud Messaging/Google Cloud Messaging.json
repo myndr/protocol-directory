@@ -6,6 +6,11 @@
     "Firebase Cloud Messaging"
   ]
   ,"versions":[]
+  ,"shared_domain": false
+  ,"domain_definition":[
+    "firebaseio.com",
+    "*.firebaseio.com"
+  ]
   ,"shared_port": true
   ,"port_definition":{"tcp":[5228,5229,5230]}
   ,"shared_ip": true
