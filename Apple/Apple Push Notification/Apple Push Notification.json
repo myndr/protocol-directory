@@ -5,8 +5,8 @@
   ,"versions":[]
   ,"shared_port": true
   ,"port_definition":{"tcp":[5223,2195,2196,443]}
-  ,"shared_ip": true
-  ,"ip_definition":["17.0.0.0/8"]
+  ,"shared_ip": false
+  ,"ip_definition":["17.167.192.128"]
   ,"shared_domain": false
   ,"domain_definition": [
     "gateway.push.apple.com",
