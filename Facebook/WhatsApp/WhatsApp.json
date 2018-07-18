@@ -9,9 +9,11 @@
   ,"alias":["FunXMPP"]
   ,"shared_domain": false, "domain_definition": [
     "whatsapp.com",
-  "*.whatsapp.com",
+    "*.whatsapp.com",
     "whatsapp.net",
     "*.whatsapp.net",
+    "chat.cdn.whatsapp.net",
+    "*.cdn.whatsapp.net",
     "whatsapp.org",
     "*.whatsapp.org"
   ]
@@ -117,6 +119,7 @@
     "169.55.74.32/27",
     "169.55.75.96/27",
     "169.60.79.0/24",
+    "169.63.64.128/28",
     "169.63.73.32/27",
     "169.63.73.64/26",
     "173.192.162.32/27",
