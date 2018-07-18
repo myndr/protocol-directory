@@ -1,6 +1,7 @@
 {
   "service_types":{
     "news-prs":90,
+    "chat":90,
     "notif":80,
     "video":20,
     "email":20
