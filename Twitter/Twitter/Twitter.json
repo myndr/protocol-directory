@@ -10,7 +10,8 @@
   "domain_definition": [
     "twitter.com",
     "*.twitter.com",
-    "*.twimg.com"
+    "*.twimg.com",
+    "*.twttr.com"
   ],
   "shared_port": false,
   "port_definition": {
