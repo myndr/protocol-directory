@@ -1,0 +1,13 @@
+{
+  "service_types":{
+    "news-prs":90,
+    "chat":90,
+    "notif":80,
+    }
+  ,"shared_port": true
+  ,"port_definition":{"tcp":[5222,5223,5228,5242]}
+  ,"shared_ip": false
+  ,"ip_definition":[
+  "23.206.80.0/20"
+  ]
+}
