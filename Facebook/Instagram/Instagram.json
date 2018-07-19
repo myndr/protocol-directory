@@ -10,8 +10,7 @@
   ,"shared_domain": false
   ,"domain_definition": [
     "instagram.com",
-    "*.instagram.com",
-    "instagram.*.fbcdn.net"
+    "*.instagram.com"
   ]
   ,"shared_ip": false
   ,"ip_definition": [

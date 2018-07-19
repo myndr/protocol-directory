@@ -12,7 +12,8 @@
   "shared_domain": false,
   "domain_definition": [
     "facebook.com",
-    "*.facebook.com"
+    "*.facebook.com",
+    "*.fbcdn.net"
   ],
   "shared_ip": true,
   "ip_definition": [
