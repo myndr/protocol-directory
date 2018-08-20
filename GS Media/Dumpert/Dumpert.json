@@ -7,13 +7,16 @@
   "port_definition": {
     "tcp": []
   },
-  "shared_ip": true,
-  "ip_definition": [],
   "shared_domain": false,
   "domain_definition": [
     "dumpert.nl",
     "*.dumpert.nl"
-  ],
-  "proprietary": {
+  ]
+  ,"shared_ip": false
+,"ip_definition":[
+  "104.20.46.122",
+  "104.20.47.122"
+]
+  ,"proprietary": {
   }
 }
