@@ -9,6 +9,8 @@
   ,"alias":["FunXMPP"]
   ,"shared_domain": false, "domain_definition": [
     "whatsapp.com",
+    "web.whatsapp.com",
+    "dyn.web.whatsapp.com",
     "*.whatsapp.com",
     "whatsapp.net",
     "*.whatsapp.net",
