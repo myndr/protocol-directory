@@ -1,6 +1,6 @@
 {
   "service_types":{
-    "www-bl":100
+    "www":100
   }
   ,"dns_forwarding": ["1.1.1.1","1.0.0.1"]
 }
