@@ -8,9 +8,17 @@
   ,"alias":[]
   ,"shared_port": false
   ,"port_definition":{"tcp":[]}
+  ,"shared_domain": false
+  ,"domain_definition": [
+    "wechat.com",
+    "*.wechat.com",
+    "wechat.co.za",
+    "*.wechat.co.za"
+  ]
   ,"shared_ip": false
   ,"ip_definition":[
     "203.205.147.173"
+    ,"203.205.143.159"
   ]
   ,"proprietary":{
     "ndpi":[]

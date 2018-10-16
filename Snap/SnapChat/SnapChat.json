@@ -8,6 +8,11 @@
   ,"alias":[]
   ,"shared_port": false
   ,"port_definition":{"tcp":[]}
+  ,"shared_domain": false
+  ,"domain_definition": [
+    "snapchat.com",
+    "*.snapchat.com"
+  ]
   ,"shared_ip": false
   ,"ip_definition":[
     "64.60.9.88-64.60.9.91"
