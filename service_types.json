@@ -1,102 +1,102 @@
 {
-  "service_types": {
-    "notif": {
-      "index": 3100,
-      "name": "Push notifications",
-      "description": "Push notification. Short data message. (WhatsApp, Twitter, Facebook Messenger, etc.)",
-      "proprietary": {
-      }
-    },
-    "sms": {
-      "index": 3200,
-      "name": "SMS / Short message service",
-      "description": "SMS (Including escalated Twitter messages)",
-      "proprietary": {
-      }
-    },
-    "email": {
-      "index": 3300,
-      "name": "Email",
-      "description": "Long messages",
-      "proprietary": {
-      }
-    },
-    "audio": {
-      "index": 3400,
-      "name": "Audio ",
-      "description": "Streaming audio. (Spotify, Apple Music, Pandora, etc.)",
-      "proprietary": {
-      }
-    },
-    "video": {
-      "index": 3500,
-      "name": "Video",
-      "description": "Streaming video. (YouTube, Vimeo, Netflix, Hulu, etc.)",
-      "proprietary": {
-      }
-    },
-    "www-safe": {
-      "index": 3600,
-      "name": "Safe websites",
-      "description": "Safe websites",
-      "proprietary": {
-      }
-    },
-    "www": {
-      "index": 3700,
-      "name": "Websites",
-      "description": "Unfiltered websites",
-      "proprietary": {
-      }
-    },
-    "phone": {
-      "index": 3800,
-      "name": "Phone",
-      "description": "Talk to each other",
-      "proprietary": {
-      }
-    },
-    "news-intl": {
-      "index": 3900,
-      "name": "International news",
-      "description": "Breaking international news messages",
-      "proprietary": {
-      }
-    },
-    "news-ntl": {
-      "index": 4000,
-      "name": "National news",
-      "description": "Breaking national news messages",
-      "proprietary": {
-      }
-    },
-    "news-lcl": {
-      "index": 4100,
-      "name": "Local news",
-      "description": "Breaking local news messages",
-      "proprietary": {
-      }
-    },
-    "news-prs": {
-      "index": 4200,
-      "name": "Social media",
-      "description": "Breaking personal news messages / social media updates",
-      "proprietary": {
-      }
-    },
-    "game": {
-      "index": 4300,
-      "name": "Gaming",
-      "description": "Games with an online component and game networks",
-      "proprietary": {
-      }
-    },
-    "chat": {
-      "index": 4400,
-      "name": "Chat",
-      "description": "Quick, interactive conversations with mostly short messages",
-      "proprietary": {
-      }
-    }
-  }
+	"service_types": {
+		"notif": {
+			"index": 3100,
+			"name": "Push notifications",
+			"description": "Push notification. Short data message. (WhatsApp, Twitter, Facebook Messenger, etc.)",
+			"proprietary": {
+			}
+		},
+		"sms": {
+			"index": 3200,
+			"name": "SMS / Short message service",
+			"description": "SMS (Including escalated Twitter messages)",
+			"proprietary": {
+			}
+		},
+		"email": {
+			"index": 3300,
+			"name": "Email",
+			"description": "Long messages",
+			"proprietary": {
+			}
+		},
+		"audio": {
+			"index": 3400,
+			"name": "Audio",
+			"description": "Streaming audio. (Spotify, Apple Music, Pandora, etc.)",
+			"proprietary": {
+			}
+		},
+		"video": {
+			"index": 3500,
+			"name": "Video",
+			"description": "Streaming video. (YouTube, Vimeo, Netflix, Hulu, etc.)",
+			"proprietary": {
+			}
+		},
+		"www-safe": {
+			"index": 3600,
+			"name": "Safe websites",
+			"description": "Safe websites",
+			"proprietary": {
+			}
+		},
+		"www": {
+			"index": 3700,
+			"name": "Websites",
+			"description": "Unfiltered websites",
+			"proprietary": {
+			}
+		},
+		"phone": {
+			"index": 3800,
+			"name": "Phone",
+			"description": "Talk to each other",
+			"proprietary": {
+			}
+		},
+		"news-intl": {
+			"index": 3900,
+			"name": "International news",
+			"description": "Breaking international news messages",
+			"proprietary": {
+			}
+		},
+		"news-ntl": {
+			"index": 4000,
+			"name": "National news",
+			"description": "Breaking national news messages",
+			"proprietary": {
+			}
+		},
+		"news-lcl": {
+			"index": 4100,
+			"name": "Local news",
+			"description": "Breaking local news messages",
+			"proprietary": {
+			}
+		},
+		"news-prs": {
+			"index": 4200,
+			"name": "Social media",
+			"description": "Breaking personal news messages / social media updates",
+			"proprietary": {
+			}
+		},
+		"game": {
+			"index": 4300,
+			"name": "Gaming",
+			"description": "Games with an online component and game networks",
+			"proprietary": {
+			}
+		},
+		"chat": {
+			"index": 4400,
+			"name": "Chat",
+			"description": "Quick, interactive conversations with mostly short messages",
+			"proprietary": {
+			}
+		}
+	}
 }

@@ -1,15 +1,19 @@
 {
-  "service_types":{
-    "chat": 100,
-    "notif":80
-  }
-  ,"alias":[]
-  ,"shared_port": false
-  ,"port_definition":{"tcp":[]}
-  ,"shared_ip": true
-  ,"ip_definition":[
-  ]
-  ,"proprietary":{
-    "ndpi":["msn"]
-  }
+	"service_types": {
+		"chat": 100,
+		"notif": 80
+	},
+	"alias": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [
+	],
+	"proprietary": {
+		"ndpi": [
+			"msn"
+		]
+	}
 }

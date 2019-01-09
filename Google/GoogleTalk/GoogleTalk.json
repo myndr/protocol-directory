@@ -1,13 +1,13 @@
 {
-  "service_types":{
-    "chat":90
-    }
-  ,"alias" : [
-    "XMPP"
-  ]
-  ,"shared_domain": false
-  ,"domain_definition": [
-    "talk.l.google.com"
-  ]
-  ,"rights_management":false
+	"service_types": {
+		"chat": 90
+	},
+	"alias": [
+		"XMPP"
+	],
+	"shared_domain": false,
+	"domain_definition": [
+		"talk.l.google.com"
+	],
+	"rights_management": false
 }

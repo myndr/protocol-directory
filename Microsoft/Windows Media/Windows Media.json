@@ -1,17 +1,21 @@
 {
-  "service_types":{
-    "video":100
-    }
-,"alias":[]
-  ,"versions":[]
-  ,"shared_port": true
-  ,"port_definition":{"tcp":[]}
-  ,"shared_ip": true
-  ,"ip_definition":[
-  ]
-  ,"ipv6_definition":[
-  ]
-  ,"proprietary":{
-    "ndpi":["windowsmedia"]
-  }
+	"service_types": {
+		"video": 100
+	},
+	"alias": [],
+	"versions": [],
+	"shared_port": true,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [
+	],
+	"ipv6_definition": [
+	],
+	"proprietary": {
+		"ndpi": [
+			"windowsmedia"
+		]
+	}
 }

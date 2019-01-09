@@ -1,18 +1,34 @@
 {
-  "service_types": {
-    "email": 100
-  },
-  "versions": []
-  ,"shared_port": false
-  ,"port_definition":{"tcp":["110","995","143","993","25"]}
-  ,"shared_ip": true
-  ,"ip_definition":[]
-  ,"shared_domain": false
-  ,"domain_definition":[
-  "gmail-imap.l.google.com",
-  "googlemail.l.google.com"
-]
-  ,"proprietary":{
-    "ndpi":["pop","smtp","imap","pops","smtps","imaps","gmail"]
-  }
+	"service_types": {
+		"email": 100
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": [
+			"110",
+			"995",
+			"143",
+			"993",
+			"25"
+		]
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"gmail-imap.l.google.com",
+		"googlemail.l.google.com"
+	],
+	"proprietary": {
+		"ndpi": [
+			"pop",
+			"smtp",
+			"imap",
+			"pops",
+			"smtps",
+			"imaps",
+			"gmail"
+		]
+	}
 }

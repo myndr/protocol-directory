@@ -1,22 +1,22 @@
 {
-  "service_types": {
-    "video": 90
-  },
-  "versions": [],
-  "shared_port": true,
-  "port_definition": {
-    "tcp": []
-  },
-  "shared_domain": false,
-  "domain_definition": [
-    "dumpert.nl",
-    "*.dumpert.nl"
-  ]
-  ,"shared_ip": false
-,"ip_definition":[
-  "104.20.46.122",
-  "104.20.47.122"
-]
-  ,"proprietary": {
-  }
+	"service_types": {
+		"video": 90
+	},
+	"versions": [],
+	"shared_port": true,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_domain": false,
+	"domain_definition": [
+		"dumpert.nl",
+		"*.dumpert.nl"
+	],
+	"shared_ip": false,
+	"ip_definition": [
+		"104.20.46.122",
+		"104.20.47.122"
+	],
+	"proprietary": {
+	}
 }

@@ -1,23 +1,25 @@
 {
-  "service_types":{
-    "video":100
-    }
-  ,"alias":[]
-  ,"versions":[]
-  ,"shared_port": false
-  ,"port_definition":{"tcp":[]}
-  ,"shared_ip": false
-  ,"ip_definition":[
-    "208.91.158.0/23",
-    "208.91.156.0/23",
-    "199.200.51.0/24",
-    "199.200.50.0/23",
-    "199.200.49.0/24",
-    "199.200.48.0/23"
-  ]
-  ,"ipv6_definition":[
-  ]
-  ,"proprietary":{
-    "ndpi":[]
-  }
+	"service_types": {
+		"video": 100
+	},
+	"alias": [],
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": false,
+	"ip_definition": [
+		"208.91.158.0/23",
+		"208.91.156.0/23",
+		"199.200.51.0/24",
+		"199.200.50.0/23",
+		"199.200.49.0/24",
+		"199.200.48.0/23"
+	],
+	"ipv6_definition": [
+	],
+	"proprietary": {
+		"ndpi": []
+	}
 }

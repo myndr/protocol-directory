@@ -1,15 +1,17 @@
 {
-  "service_types": {
-    "game": 100
-  },
-  "versions": []
-  ,"shared_port": false
-  ,"port_definition":{
-    "tcp":[]
-  }
-  ,"shared_ip": true
-  ,"ip_definition":[]
-  ,"proprietary":{
-    "ndpi":["xbox"]
-  }
+	"service_types": {
+		"game": 100
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"proprietary": {
+		"ndpi": [
+			"xbox"
+		]
+	}
 }

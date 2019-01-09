@@ -1,12 +1,12 @@
 {
-  "service_types": {
-    "audio": 90
-  },
-  "versions": [],
-  "shared_ip": false,
-  "ip_definition": [
-    "78.40.123.183",
-    "78.40.123.182",
-    "192.229.220.95"
-  ]
+	"service_types": {
+		"audio": 90
+	},
+	"versions": [],
+	"shared_ip": false,
+	"ip_definition": [
+		"78.40.123.183",
+		"78.40.123.182",
+		"192.229.220.95"
+	]
 }

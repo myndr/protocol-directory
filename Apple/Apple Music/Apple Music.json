@@ -1,10 +1,17 @@
 {
-  "service_types": {
-    "audio": 90
-  },
-  "versions": []
-  ,"shared_port": false
-  ,"port_definition":{"tcp":["8000:8999","42000:42999"]}
-  ,"shared_ip": true
-  ,"ip_definition":["17.0.0.0/8"]
+	"service_types": {
+		"audio": 90
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": [
+			"8000:8999",
+			"42000:42999"
+		]
+	},
+	"shared_ip": true,
+	"ip_definition": [
+		"17.0.0.0/8"
+	]
 }

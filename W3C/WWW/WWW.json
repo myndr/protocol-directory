@@ -1,10 +1,10 @@
 {
-  "service_types": {
-    "www": 100,
-    "www-bl": 100
-  },
-  "shared_domain": true,
-  "domain_definition": [
-    "#"
-  ]
+	"service_types": {
+		"www": 100,
+		"www-bl": 100
+	},
+	"shared_domain": true,
+	"domain_definition": [
+		"#"
+	]
 }
