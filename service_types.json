@@ -35,7 +35,7 @@
 			"proprietary": {
 			}
 		},
-		"www-safe": {
+		"www-bl": {
 			"index": 3600,
 			"name": "Safe websites",
 			"description": "Safe websites",
