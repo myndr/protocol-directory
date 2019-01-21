@@ -1,6 +1,7 @@
 {
 	"service_types": {
-		"www-bl": 100
+		"www-bl": 100,
+		"www-wl":70
 	},
 	"dns_forwarding": [
 		"208.67.222.123",
