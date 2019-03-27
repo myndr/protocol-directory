@@ -3,13 +3,14 @@
 		"notif": 100
 	},
 	"alias": [
-		"Google Cloud Messaging"
+		"Firebase Cloud Messaging"
 	],
 	"versions": [],
 	"shared_domain": false,
 	"domain_definition": [
 		"firebaseio.com",
-		"*.firebaseio.com"
+		"*.firebaseio.com",
+		"fcm-stream.googleapis.com"
 	],
 	"shared_port": true,
 	"port_definition": {
