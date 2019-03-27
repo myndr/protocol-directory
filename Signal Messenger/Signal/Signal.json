@@ -7,7 +7,10 @@
 	},
 	"shared_domain": false,
 	"domain_definition": [
-		"*.whispersystems.org"
+		"*.whispersystems.org",
+		"whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com",
+		"signal.org",
+		"*.signal.org"
 	],
 	"shared_ip": true,
 	"ip_definition": [

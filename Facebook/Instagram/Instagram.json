@@ -10,7 +10,11 @@
 	"shared_domain": false,
 	"domain_definition": [
 		"instagram.com",
-		"*.instagram.com"
+		"*.instagram.com",
+		"ig.me",
+		"*.ig.me",
+		"instagr.am",
+		"*.instagr.am"
 	],
 	"shared_ip": false,
 	"ip_definition": [
