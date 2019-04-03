@@ -9,6 +9,7 @@
 		"netflix.com",
 		"*.netflix.com",
 		"*.nflxext.com",
+		"*.nflxvideo.net",
 		"*.nflxso.net"
 	],
 	"shared_port": false,
