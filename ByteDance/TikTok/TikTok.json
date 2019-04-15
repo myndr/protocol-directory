@@ -1,0 +1,22 @@
+{
+	"service_types": {
+		"news-prs": 90,
+		"chat": 90,
+		"notif": 80,
+		"video": 80
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"tiktok.com",
+		"*.tiktok.com"
+	],
+	"proprietary": {
+	}
+}

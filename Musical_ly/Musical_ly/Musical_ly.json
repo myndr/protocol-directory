@@ -1,0 +1,26 @@
+{
+	"service_types": {
+		"news-prs": 90,
+		"chat": 90,
+		"notif": 80,
+		"video": 80
+	},
+	"alias": [
+		"TikTok"
+	],
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"musical.ly",
+		"*.musical.ly"
+	],
+	"proprietary": {
+	},
+	"remark": "Merged with TikTok by ByteDance in 2018"
+}
