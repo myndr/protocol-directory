@@ -14,8 +14,17 @@
 	"ip_definition": [],
 	"shared_domain": false,
 	"domain_definition": [
+		"musical.ly",
+		"*.musical.ly",
 		"tiktok.com",
-		"*.tiktok.com"
+		"*.tiktok.com",
+		"douyin.com",
+		"*.douyin.com",
+		"muscdn.com",
+		"*.muscdn.com",
+		"bytedance.map.fastly.net",
+		"*.bytedance.map.fastly.net"
+
 	],
 	"proprietary": {
 	}
