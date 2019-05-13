@@ -7,8 +7,29 @@
 	"port_definition": {
 		"tcp": []
 	},
-	"shared_ip": true,
-	"ip_definition": [],
+	"shared_ip": false,
+	"ip_definition": [
+		"40.74.0.0-40.125.127.255"
+	],
+	"shared_domain": false,
+	"domain_defintion": [
+		"xboxlive.com",
+		"*.xboxlive.com",
+		"dns.msftncsi.com",
+		"arc.msn.com",
+		"arc.msn.com.nsatc.net",
+		"client.wns.windows.com",
+		"*.xboxlive.com.akadns.net",
+		"*.notify.windows.com.akadns.net",
+		"*.wns.notify.windows.com.akadns.net",
+		"*.xboxlive.com.edgesuite.net",
+		"assets1.azureedge.net",
+		"assets1.ec.azureedge.net",
+		"xbox.ipv6.microsoft.com",
+		"xbox.ipv6.microsoft.com.akadns.net",
+		"*.ipv6.microsoft.com.akadns.net",
+		"*.events.data.microsoft.com"
+	],
 	"proprietary": {
 		"ndpi": [
 			"xbox"
