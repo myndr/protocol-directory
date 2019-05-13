@@ -12,7 +12,7 @@
 		"40.74.0.0-40.125.127.255"
 	],
 	"shared_domain": false,
-	"domain_defintion": [
+	"domain_definition": [
 		"xboxlive.com",
 		"*.xboxlive.com",
 		"dns.msftncsi.com",
