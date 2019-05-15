@@ -1,0 +1,27 @@
+{
+	"service_types": {
+		"game": 100
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": false,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"ps4updptl.eu.np.community.playstation.net",
+		"*.eu.np.community.playstation.net",
+		"*.us.np.community.playstation.net",
+		"*.np.community.playstation.net",
+		"*.community.playstation.net",
+		"*.playstation.net",
+		"playstation.net"
+	],
+	"proprietary": {
+		"ndpi": [
+			"playstation"
+		]
+	}
+}

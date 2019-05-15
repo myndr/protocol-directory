@@ -12,6 +12,7 @@
 	"shared_domain": false,
 	"domain_definition": [
 		"*.ol.epicgames.com",
+		"*.ak.epicgames.com",
 		"*.epicgames.com"
 	],
 	"proprietary": {
