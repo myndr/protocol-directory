@@ -1,5 +1,6 @@
 {
 	"service_types": {
+		"audio": 100,
 		"game": 100
 	},
 	"versions": [],
@@ -15,6 +16,7 @@
 		"*.ak.epicgames.com",
 		"*.epicgames.com"
 	],
-	"proprietary": {
-	}
+	"proprietary": [],
+	"name": "Epic Games",
+	"provider": "Epic Games"
 }
