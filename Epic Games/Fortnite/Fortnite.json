@@ -1,6 +1,9 @@
 {
 	"service_types": {
-		"game": 100
+		"notif": 100,
+		"video": 100,
+		"game": 100,
+		"chat": 100
 	},
 	"versions": [],
 	"shared_port": false,
@@ -14,6 +17,7 @@
 		"fortnite.com",
 		"*.fortnite.com"
 	],
-	"proprietary": {
-	}
+	"proprietary": [],
+	"name": "Fortnite",
+	"provider": "Epic Games"
 }
