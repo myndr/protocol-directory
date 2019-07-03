@@ -1,6 +1,7 @@
 {
 	"service_types": {
-		"video": 100
+		"video": 100,
+		"phone": 100
 	},
 	"alias": [],
 	"versions": [],
@@ -15,5 +16,7 @@
 		"ndpi": [
 			"quicktime"
 		]
-	}
+	},
+	"name": "QuickTime",
+	"provider": "Apple"
 }
