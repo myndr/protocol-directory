@@ -1,5 +1,6 @@
 {
 	"service_types": {
+		"audio": 100,
 		"video": 100
 	},
 	"alias": [],
@@ -15,5 +16,7 @@
 		"ndpi": [
 			"quicktime"
 		]
-	}
+	},
+	"name": "QuickTime",
+	"provider": "Apple"
 }
