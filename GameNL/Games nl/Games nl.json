@@ -1,0 +1,7 @@
+{
+	"name": "Games nl",
+	"provider": "GameNL",
+	"service_types": {
+		"game": 100
+	}
+}
