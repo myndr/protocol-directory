@@ -10,7 +10,7 @@
 	"shared_ip": true,
 	"ip_definition": [],
 	"shared_domain": false,
-	"domain_defintion": [
+	"domain_definition": [
 		"mixer.com"
 	],
 	"proprietary": {
