@@ -1,0 +1,7 @@
+{
+	"name": "SchoolTV",
+	"provider": "NTR",
+	"service_types": {
+		"video": 100
+	}
+}
