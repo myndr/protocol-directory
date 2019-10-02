@@ -1,0 +1,32 @@
+{
+	"service_types": {
+		"video": 100
+	},
+	"shared_domain": false,
+	"domain_definition": [
+		"npostart.nl",
+		"www.npostart.nl"
+	],
+	"shared_port": true,
+	"port_definition": {
+		"tcp": [
+			80, 443
+		]
+	},
+	"shared_ip": false,
+	"ip_definition": [
+		"104.16.245.245/32",
+		"104.16.244.245/32",
+		"34.251.239.196/32",
+		"34.241.238.121/32",
+		"52.212.233.175/32",
+		"145.58.28.39/32",
+		"54.77.18.62/32",
+		"54.229.92.56/32"
+	],
+	"proprietary": {
+		"ndpi": [
+			"npostart"
+		]
+	}
+}
