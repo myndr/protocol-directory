@@ -1,0 +1,7 @@
+{
+	"name": "street",
+	"provider": "ASD",
+	"service_types": {
+		"notif": 100
+	}
+}
