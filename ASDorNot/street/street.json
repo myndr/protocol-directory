@@ -1,0 +1,7 @@
+{
+	"name": "street",
+	"provider": "ASDorNot",
+	"service_types": {
+		"notif": 100
+	}
+}
