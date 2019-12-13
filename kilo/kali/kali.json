@@ -1,0 +1,7 @@
+{
+	"name": "kali",
+	"provider": "kilo",
+	"service_types": {
+		"sms": 100
+	}
+}
