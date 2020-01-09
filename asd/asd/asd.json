@@ -1,0 +1,7 @@
+{
+	"name": "asd",
+	"provider": "asd",
+	"service_types": {
+		"notif": 100
+	}
+}
