@@ -1,0 +1,7 @@
+{
+	"name": "Calcudoku",
+	"provider": "Patrick Min",
+	"service_types": {
+		"game": 100
+	}
+}
