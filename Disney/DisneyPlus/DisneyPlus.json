@@ -1,0 +1,25 @@
+{
+	"service_types": {
+		"video": 90
+	},
+	"shared_domain": false,
+	"domain_definition": [
+		"*.disneyplus.com",
+		"*.disney-plus.net",
+		"global.edge.bamgrid.com",
+		"bam-sdk-configs.bamgrid.com",
+		"bamtech.sc.omtrdc.net",
+		"cdn.registerdisney.go.com",
+		"disney.demdex.net",
+		"search-api-disney.svcs.dssott.com"
+	],
+	"shared_port": true,
+	"port_definition": {
+		"tcp": [
+			443
+		]
+	},
+	"shared_ip": true,
+	"ip_definition": [
+	]
+}
