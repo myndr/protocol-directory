@@ -1,0 +1,19 @@
+{
+	"service_types": {
+		"game": 80,
+		"edu-practive" : 80
+	},
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"calcudoku.org",
+		"www.calcudoku.org"
+	],
+	"proprietary": {
+	}
+}
