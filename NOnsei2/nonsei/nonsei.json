@@ -1,0 +1,9 @@
+{
+	"name": "nonsei",
+	"provider": "NOnsei2",
+	"service_types": {
+		"notif": 100,
+		"sms": 100,
+		"news-ntl": 100
+	}
+}
