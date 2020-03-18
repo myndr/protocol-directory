@@ -1,0 +1,7 @@
+{
+	"name": "hello",
+	"provider": "ij",
+	"service_types": {
+		"chat": 100
+	}
+}
