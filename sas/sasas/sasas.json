@@ -1,0 +1,7 @@
+{
+	"name": "sasas",
+	"provider": "sas",
+	"service_types": {
+		"sms": 100
+	}
+}
