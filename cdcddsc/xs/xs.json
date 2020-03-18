@@ -1,0 +1,7 @@
+{
+	"name": "xs",
+	"provider": "cdcddsc",
+	"service_types": {
+		"notif": 100
+	}
+}
