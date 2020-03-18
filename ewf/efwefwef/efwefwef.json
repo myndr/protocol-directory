@@ -1,0 +1,7 @@
+{
+	"name": "efwefwef",
+	"provider": "ewf",
+	"service_types": {
+		"sms": 100
+	}
+}
