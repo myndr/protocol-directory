@@ -1,0 +1,7 @@
+{
+	"name": "abc",
+	"provider": "abc",
+	"service_types": {
+		"www": 100
+	}
+}
