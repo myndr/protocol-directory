@@ -1,6 +1,8 @@
 {
 	"service_types": {
-		"notif": 100
+		"notif": 100,
+		"sms": 100,
+		"video": 100
 	},
 	"alias": [
 		"Firebase Cloud Messaging"
@@ -35,5 +37,7 @@
 		"173.194.68.188",
 		"173.194.76.188",
 		"173.194.79.188"
-	]
+	],
+	"name": "Firebase Cloud Messaging",
+	"provider": "Google"
 }
