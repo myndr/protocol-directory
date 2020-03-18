@@ -1,0 +1,7 @@
+{
+	"name": "ds",
+	"provider": "sas",
+	"service_types": {
+		"notif": 100
+	}
+}
