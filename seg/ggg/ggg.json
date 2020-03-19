@@ -1,0 +1,7 @@
+{
+	"name": "ggg",
+	"provider": "seg",
+	"service_types": {
+		"news-intl": 100
+	}
+}
