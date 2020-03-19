@@ -1,0 +1,7 @@
+{
+	"name": "add",
+	"provider": "myself",
+	"service_types": {
+		"www": 100
+	}
+}
