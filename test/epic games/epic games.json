@@ -1,0 +1,7 @@
+{
+	"name": "epic games",
+	"provider": "test",
+	"service_types": {
+		"audio": 100
+	}
+}
