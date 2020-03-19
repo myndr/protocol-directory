@@ -1,0 +1,7 @@
+{
+	"name": "Tumbler",
+	"provider": "Tumbler",
+	"service_types": {
+		"notif": 100
+	}
+}
