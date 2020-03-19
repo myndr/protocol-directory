@@ -1,5 +1,6 @@
 {
 	"service_types": {
+		"sms": 100,
 		"email": 100
 	},
 	"versions": [],
@@ -26,5 +27,7 @@
 			"imaps",
 			"gmail"
 		]
-	}
+	},
+	"name": "Email",
+	"provider": "Email"
 }
