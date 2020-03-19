@@ -1,0 +1,7 @@
+{
+	"name": "sdfsd",
+	"provider": "asfw",
+	"service_types": {
+		"phone": 100
+	}
+}
