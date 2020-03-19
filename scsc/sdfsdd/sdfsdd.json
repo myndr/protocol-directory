@@ -1,0 +1,9 @@
+{
+	"name": "sdfsdd",
+	"provider": "scsc",
+	"service_types": {
+		"sms": 100,
+		"email": 100,
+		"audio": 100
+	}
+}
