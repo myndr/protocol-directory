@@ -1,0 +1,8 @@
+{
+	"name": "slack",
+	"provider": "dadsad",
+	"service_types": {
+		"news-intl": 100,
+		"news-prs": 100
+	}
+}
