@@ -15,6 +15,7 @@
 		"*.ak.epicgames.com",
 		"*.epicgames.com"
 	],
-	"proprietary": {
-	}
+	"proprietary": [],
+	"name": "games",
+	"provider": "Epic Games"
 }
