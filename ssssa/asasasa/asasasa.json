@@ -1,0 +1,9 @@
+{
+	"name": "asasasa",
+	"provider": "ssssa",
+	"service_types": {
+		"www-bl": 100,
+		"news-intl": 100,
+		"news-lcl": 100
+	}
+}
