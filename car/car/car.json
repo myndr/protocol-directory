@@ -1,0 +1,7 @@
+{
+	"name": "car",
+	"provider": "car",
+	"service_types": {
+		"www": 100
+	}
+}
