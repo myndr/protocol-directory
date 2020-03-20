@@ -1,0 +1,7 @@
+{
+	"name": "ping",
+	"provider": "aacc",
+	"service_types": {
+		"www": 100
+	}
+}
