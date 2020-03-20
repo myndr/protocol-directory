@@ -1,0 +1,7 @@
+{
+	"name": "hello",
+	"provider": "dell",
+	"service_types": {
+		"sms": 100
+	}
+}
