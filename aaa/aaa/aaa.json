@@ -1,0 +1,8 @@
+{
+	"name": "aaa",
+	"provider": "aaa",
+	"service_types": {
+		"notif": 100,
+		"news-prs": 100
+	}
+}
