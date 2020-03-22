@@ -1,0 +1,8 @@
+{
+	"name": "aaaa",
+	"provider": "aaa",
+	"service_types": {
+		"news-ntl": 100,
+		"news-lcl": 100
+	}
+}
