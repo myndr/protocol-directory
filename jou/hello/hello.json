@@ -1,0 +1,9 @@
+{
+	"name": "hello",
+	"provider": "jou",
+	"service_types": {
+		"notif": 100,
+		"sms": 100,
+		"chat": 100
+	}
+}
