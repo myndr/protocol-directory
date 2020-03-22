@@ -1,0 +1,7 @@
+{
+	"name": "sdf",
+	"provider": "sdf",
+	"service_types": {
+		"video": 100
+	}
+}
