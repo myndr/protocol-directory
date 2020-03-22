@@ -1,0 +1,7 @@
+{
+	"name": "ras",
+	"provider": "test",
+	"service_types": {
+		"notif": 100
+	}
+}
