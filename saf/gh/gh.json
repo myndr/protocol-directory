@@ -1,0 +1,7 @@
+{
+	"name": "gh",
+	"provider": "saf",
+	"service_types": {
+		"sms": 100
+	}
+}
