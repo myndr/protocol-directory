@@ -1,0 +1,7 @@
+{
+	"name": "ho",
+	"provider": "ksmf",
+	"service_types": {
+		"notif": 100
+	}
+}
