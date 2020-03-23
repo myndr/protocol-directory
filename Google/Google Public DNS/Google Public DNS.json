@@ -5,5 +5,7 @@
 	"dns_forwarding": [
 		"8.8.8.8",
 		"8.8.4.4"
-	]
+	],
+	"name": "Google Public DNS",
+	"provider": "Google"
 }
