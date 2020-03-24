@@ -1,0 +1,7 @@
+{
+	"name": "dfs",
+	"provider": "xcds",
+	"service_types": {
+		"news-intl": 100
+	}
+}
