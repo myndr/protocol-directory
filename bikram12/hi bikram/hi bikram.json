@@ -1,0 +1,7 @@
+{
+	"name": "hi bikram",
+	"provider": "bikram12",
+	"service_types": {
+		"game": 100
+	}
+}
