@@ -1,0 +1,7 @@
+{
+	"name": "hello",
+	"provider": "gaming",
+	"service_types": {
+		"chat": 100
+	}
+}
