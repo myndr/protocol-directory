@@ -1,0 +1,9 @@
+{
+	"name": "fd34",
+	"provider": "34f3",
+	"service_types": {
+		"sms": 100,
+		"news-intl": 100,
+		"news-prs": 100
+	}
+}
