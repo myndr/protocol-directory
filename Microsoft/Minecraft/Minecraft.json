@@ -1,0 +1,7 @@
+{
+	"name": "Minecraft",
+	"provider": "Microsoft",
+	"service_types": {
+		"game": 100
+	}
+}
