@@ -1,0 +1,7 @@
+{
+	"name": "Roblox",
+	"provider": "Roblox",
+	"service_types": {
+		"game": 100
+	}
+}
