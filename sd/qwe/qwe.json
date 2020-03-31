@@ -1,0 +1,10 @@
+{
+	"name": "qwe",
+	"provider": "sd",
+	"service_types": {
+		"notif": 100,
+		"sms": 100,
+		"audio": 100,
+		"news-lcl": 100
+	}
+}
