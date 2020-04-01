@@ -10,13 +10,13 @@
 		"tcp": []
 	},
 	"shared_ip": true,
-	"ip_definition": [
-	],
-	"ipv6_definition": [
-	],
+	"ip_definition": [],
+	"ipv6_definition": [],
 	"proprietary": {
 		"ndpi": [
 			"flash"
 		]
-	}
+	},
+	"name": "Flash",
+	"provider": "Adobe"
 }
