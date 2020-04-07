@@ -1,0 +1,7 @@
+{
+	"name": "hello",
+	"provider": "test",
+	"service_types": {
+		"chat": 100
+	}
+}
