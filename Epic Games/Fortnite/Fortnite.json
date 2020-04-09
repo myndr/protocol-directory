@@ -1,5 +1,6 @@
 {
 	"service_types": {
+		"notif": 100,
 		"game": 100
 	},
 	"versions": [],
@@ -14,6 +15,7 @@
 		"fortnite.com",
 		"*.fortnite.com"
 	],
-	"proprietary": {
-	}
+	"proprietary": [],
+	"name": "Fortnite",
+	"provider": "Epic Games"
 }
