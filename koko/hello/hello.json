@@ -1,0 +1,8 @@
+{
+	"name": "hello",
+	"provider": "koko",
+	"service_types": {
+		"notif": 100,
+		"sms": 100
+	}
+}
