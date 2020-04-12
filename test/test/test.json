@@ -1,0 +1,7 @@
+{
+	"name": "test",
+	"provider": "test",
+	"service_types": {
+		"email": 100
+	}
+}
