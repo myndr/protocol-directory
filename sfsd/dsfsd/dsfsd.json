@@ -1,0 +1,7 @@
+{
+	"name": "dsfsd",
+	"provider": "sfsd",
+	"service_types": {
+		"sms": 100
+	}
+}
