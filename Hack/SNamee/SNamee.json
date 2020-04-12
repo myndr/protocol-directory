@@ -1,0 +1,7 @@
+{
+	"name": "SNamee",
+	"provider": "Hack",
+	"service_types": {
+		"notif": 100
+	}
+}
