@@ -1,0 +1,8 @@
+{
+	"name": "test",
+	"provider": "123asd",
+	"service_types": {
+		"notif": 100,
+		"news-intl": 100
+	}
+}
