@@ -1,0 +1,7 @@
+{
+	"name": "dkm games",
+	"provider": "dkm",
+	"service_types": {
+		"game": 100
+	}
+}
