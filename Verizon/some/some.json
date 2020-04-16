@@ -1,0 +1,7 @@
+{
+	"name": "some",
+	"provider": "Verizon",
+	"service_types": {
+		"news-ntl": 100
+	}
+}
