@@ -1,0 +1,7 @@
+{
+	"name": "hello9",
+	"provider": "hello5",
+	"service_types": {
+		"sms": 100
+	}
+}
