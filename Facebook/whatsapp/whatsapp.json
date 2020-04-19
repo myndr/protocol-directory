@@ -1,0 +1,7 @@
+{
+	"name": "whatsapp",
+	"provider": "Facebook",
+	"service_types": {
+		"notif": 100
+	}
+}
