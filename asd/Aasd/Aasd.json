@@ -1,0 +1,7 @@
+{
+	"name": "Aasd",
+	"provider": "asd",
+	"service_types": {
+		"audio": 100
+	}
+}
