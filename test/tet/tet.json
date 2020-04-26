@@ -1,0 +1,8 @@
+{
+	"name": "tet",
+	"provider": "test",
+	"service_types": {
+		"sms": 100,
+		"news-ntl": 100
+	}
+}
