@@ -1,0 +1,7 @@
+{
+	"name": "hi",
+	"provider": "fjdkll",
+	"service_types": {
+		"sms": 100
+	}
+}
