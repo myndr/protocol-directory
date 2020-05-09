@@ -1,0 +1,7 @@
+{
+	"name": "hi",
+	"provider": "khano",
+	"service_types": {
+		"email": 100
+	}
+}
