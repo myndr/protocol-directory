@@ -1,0 +1,9 @@
+{
+	"name": "sms",
+	"provider": "abdulsamad",
+	"service_types": {
+		"news-intl": 100,
+		"news-ntl": 100,
+		"chat": 100
+	}
+}
