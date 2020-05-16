@@ -1,0 +1,8 @@
+{
+	"name": "update",
+	"provider": "Verizon",
+	"service_types": {
+		"sms": 100,
+		"news-prs": 100
+	}
+}
