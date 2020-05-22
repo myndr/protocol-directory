@@ -1,0 +1,7 @@
+{
+	"name": "zed",
+	"provider": "xxxx",
+	"service_types": {
+		"notif": 100
+	}
+}
