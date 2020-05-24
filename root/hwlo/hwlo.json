@@ -1,0 +1,7 @@
+{
+	"name": "hwlo",
+	"provider": "root",
+	"service_types": {
+		"sms": 100
+	}
+}
