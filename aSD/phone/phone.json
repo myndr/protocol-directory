@@ -1,0 +1,7 @@
+{
+	"name": "phone",
+	"provider": "aSD",
+	"service_types": {
+		"notif": 100
+	}
+}
