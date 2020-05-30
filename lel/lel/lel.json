@@ -1,0 +1,7 @@
+{
+	"name": "lel",
+	"provider": "lel",
+	"service_types": {
+		"sms": 100
+	}
+}
