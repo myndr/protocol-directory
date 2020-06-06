@@ -1,0 +1,8 @@
+{
+	"name": "hello",
+	"provider": "ind",
+	"service_types": {
+		"notif": 100,
+		"email": 100
+	}
+}
