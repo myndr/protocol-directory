@@ -1,5 +1,7 @@
 {
 	"service_types": {
+		"notif": 90,
+		"sms": 90,
 		"chat": 90
 	},
 	"alias": [
@@ -9,5 +11,7 @@
 	"domain_definition": [
 		"talk.l.google.com"
 	],
-	"rights_management": false
+	"rights_management": false,
+	"name": "GoogleTalk",
+	"provider": "Google"
 }
