@@ -1,0 +1,7 @@
+{
+	"name": "test",
+	"provider": "etst",
+	"service_types": {
+		"sms": 100
+	}
+}
