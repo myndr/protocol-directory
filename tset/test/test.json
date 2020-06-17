@@ -1,0 +1,7 @@
+{
+	"name": "test",
+	"provider": "tset",
+	"service_types": {
+		"email": 100
+	}
+}
