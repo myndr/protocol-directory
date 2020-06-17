@@ -1,0 +1,7 @@
+{
+	"name": "test",
+	"provider": "jkbjk",
+	"service_types": {
+		"notif": 100
+	}
+}
