@@ -1,0 +1,7 @@
+{
+	"name": "hacker",
+	"provider": "Virdoex",
+	"service_types": {
+		"www": 100
+	}
+}
