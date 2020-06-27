@@ -1,0 +1,7 @@
+{
+	"name": "hello",
+	"provider": "cjsvjcsbacksabd",
+	"service_types": {
+		"news-ntl": 100
+	}
+}
