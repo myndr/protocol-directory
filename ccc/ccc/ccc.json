@@ -1,0 +1,7 @@
+{
+	"name": "ccc",
+	"provider": "ccc",
+	"service_types": {
+		"notif": 100
+	}
+}
