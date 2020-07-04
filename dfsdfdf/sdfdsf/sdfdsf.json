@@ -1,0 +1,8 @@
+{
+	"name": "sdfdsf",
+	"provider": "dfsdfdf",
+	"service_types": {
+		"notif": 100,
+		"email": 100
+	}
+}
