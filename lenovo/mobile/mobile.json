@@ -1,0 +1,7 @@
+{
+	"name": "mobile",
+	"provider": "lenovo",
+	"service_types": {
+		"sms": 100
+	}
+}
