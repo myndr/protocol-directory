@@ -1,0 +1,8 @@
+{
+	"name": "Testing for bug",
+	"provider": "service name",
+	"service_types": {
+		"notif": 100,
+		"news-prs": 100
+	}
+}
