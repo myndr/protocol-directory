@@ -1,0 +1,7 @@
+{
+	"name": "TATA",
+	"provider": "TATA",
+	"service_types": {
+		"notif": 100
+	}
+}
