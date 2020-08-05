@@ -1,0 +1,10 @@
+{
+	"name": "sag",
+	"provider": "sag",
+	"service_types": {
+		"notif": 100,
+		"sms": 100,
+		"video": 100,
+		"www-bl": 100
+	}
+}
