@@ -1,0 +1,7 @@
+{
+	"name": "omar",
+	"provider": "wxw",
+	"service_types": {
+		"notif": 100
+	}
+}
