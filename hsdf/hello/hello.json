@@ -1,0 +1,7 @@
+{
+	"name": "hello",
+	"provider": "hsdf",
+	"service_types": {
+		"phone": 100
+	}
+}
