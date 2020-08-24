@@ -1,0 +1,7 @@
+{
+	"name": "steam",
+	"provider": "Steam",
+	"service_types": {
+		"game": 100
+	}
+}
