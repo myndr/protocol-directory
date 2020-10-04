@@ -1,0 +1,8 @@
+{
+	"name": "test",
+	"provider": "ssss",
+	"service_types": {
+		"sms": 100,
+		"video": 100
+	}
+}
