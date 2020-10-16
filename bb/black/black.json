@@ -1,0 +1,7 @@
+{
+	"name": "black",
+	"provider": "bb",
+	"service_types": {
+		"email": 100
+	}
+}
