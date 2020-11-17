@@ -9,10 +9,14 @@
 	"domain_definition": [
 		"youtube.com",
 		"*.youtube.com",
+		"*.googlevideo.com",
 		"*.ytimg.com",
 		"*.ggpht.com",
-		"yout.be",
-		"*.yout.be"
+		"youtu.be",
+		"*.youtu.be",
+		"youtubei.googleapis.com",
+		"youtube-ui.l.google.com",
+		"*.googleusercontent.com"
 	],
 	"shared_port": false,
 	"port_definition": {
