@@ -1,0 +1,7 @@
+{
+	"name": "asa",
+	"provider": "fdas",
+	"service_types": {
+		"news-intl": 100
+	}
+}
