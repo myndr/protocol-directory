@@ -1,0 +1,7 @@
+{
+	"name": "addmi",
+	"provider": "Remosk",
+	"service_types": {
+		"notif": 100
+	}
+}
