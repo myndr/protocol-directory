@@ -1,0 +1,8 @@
+{
+	"name": "home",
+	"provider": "home",
+	"service_types": {
+		"notif": 100,
+		"news-lcl": 100
+	}
+}
