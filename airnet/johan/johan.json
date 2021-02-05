@@ -1,0 +1,7 @@
+{
+	"name": "johan",
+	"provider": "airnet",
+	"service_types": {
+		"www": 100
+	}
+}
