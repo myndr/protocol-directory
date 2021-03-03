@@ -1,0 +1,7 @@
+{
+	"name": "asd",
+	"provider": "asdasdad",
+	"service_types": {
+		"sms": 100
+	}
+}
