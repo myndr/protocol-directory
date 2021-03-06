@@ -1,0 +1,7 @@
+{
+	"name": "aha",
+	"provider": "aha",
+	"service_types": {
+		"sms": 100
+	}
+}
