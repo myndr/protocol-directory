@@ -1,0 +1,10 @@
+{
+	"name": "add",
+	"provider": "provider",
+	"service_types": {
+		"notif": 100,
+		"email": 100,
+		"www": 100,
+		"game": 100
+	}
+}
