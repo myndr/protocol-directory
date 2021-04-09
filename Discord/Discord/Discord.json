@@ -1,0 +1,17 @@
+{
+	"service_types": {
+		"chat": 90
+	},
+	"shared_domain": false,
+	"domain_definition": [
+		"discord.com",
+		"*.discord.com"
+	],
+	"shared_port": true,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [
+	]
+}
