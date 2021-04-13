@@ -1,0 +1,8 @@
+{
+	"name": "nbbbb",
+	"provider": "bhg",
+	"service_types": {
+		"news-lcl": 100,
+		"news-prs": 100
+	}
+}
