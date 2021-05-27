@@ -1,0 +1,16 @@
+{
+	"service_types": {
+		"circumvent": 100
+	},
+	"shared_port": true,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"doh.dns.apple.com",
+		"doh.dns.apple.com.v.aaplimg.com"
+		]
+}

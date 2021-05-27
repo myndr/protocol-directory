@@ -97,6 +97,13 @@
 			"description": "Quick, interactive conversations with mostly short messages",
 			"proprietary": {
 			}
+		},
+		"circumvent": {
+			"index": 7000,
+			"name": "Circumventing regular network traffic",
+			"description": "Proxies, (free) VPN and other ways to circumvent network traffic shaping.",
+			"proprietary": {
+			}
 		}
 	}
 }
