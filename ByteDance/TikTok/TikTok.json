@@ -14,6 +14,10 @@
 	"ip_definition": [],
 	"shared_domain": false,
 	"domain_definition": [
+		"tiktokcdn.com",
+		"*.tiktokcdn.com",
+		"tiktokv.com",
+		"*.tiktokv.com",
 		"musical.ly",
 		"*.musical.ly",
 		"tiktok.com",
@@ -23,7 +27,15 @@
 		"muscdn.com",
 		"*.muscdn.com",
 		"bytedance.map.fastly.net",
-		"*.bytedance.map.fastly.net"
+		"*.bytedance.map.fastly.net",
+		"tiktokcdn.com.akamaized.net",
+		"*.tiktokcdn.com.akamaized.net",
+		"tiktokv.com.edgekey.net",
+		"*.tiktokv.com.edgekey.net",
+		"a1935.b.akamai.net",
+		"*.a1935.b.akamai.net",
+		"ibytedtos.com",
+		"*.ibytedtos.com"
 
 	],
 	"proprietary": {
