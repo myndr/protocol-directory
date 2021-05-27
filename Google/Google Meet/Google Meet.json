@@ -1,0 +1,20 @@
+{
+	"service_types": {
+		"edu-source": 80
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"meet.google.com",
+		"play.google.com",
+		"*.client-channel.google.com"
+	],
+	"proprietary": {
+	}
+}

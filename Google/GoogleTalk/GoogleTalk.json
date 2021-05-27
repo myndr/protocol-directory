@@ -7,7 +7,9 @@
 	],
 	"shared_domain": false,
 	"domain_definition": [
-		"talk.l.google.com"
+		"talk.l.google.com",
+		"mtalk.google.com",
+		"mobile-gtalk.l.google.com"
 	],
 	"rights_management": false
 }

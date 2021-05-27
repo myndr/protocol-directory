@@ -1,0 +1,24 @@
+{
+	"service_types": {
+		"tool": 90
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"*.client-channel.google.com",
+		"docs.google.com",
+		"*.docs.google.com",
+		"*.c.docs.google.com",
+		"sheets.google.com",
+		"slides.google.com"
+	],
+	"proprietary": {
+		"ndpi": []
+	}
+}

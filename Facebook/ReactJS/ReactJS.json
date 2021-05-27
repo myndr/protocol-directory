@@ -1,0 +1,21 @@
+{
+	"service_types": {
+		"tool": 80
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"reactjs.org",
+		"*.reactjs.org",
+		"d35aaqx5ub95lt.cloudfront.net"
+
+	],
+	"proprietary": {
+	}
+}

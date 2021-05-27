@@ -1,0 +1,42 @@
+{
+	"service_types": {
+		"tool": 90
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"accounts.google.com",
+		"accounts.google.nl",
+		"myaccount.google.com",
+		"accounts.youtube.com",
+		"contacts.google.com",
+		"clients1.google.com",
+		"clients2.google.com",
+		"clients3.google.com",
+		"clients4.google.com",
+		"clients5.google.com",
+		"clients6.google.com",
+		"clients7.google.com",
+		"clients8.google.com",
+		"clients9.google.com",
+		"clients10.google.com",
+		"*.clients1.google.com",
+		"*.clients2.google.com",
+		"*.clients3.google.com",
+		"*.clients4.google.com",
+		"*.clients5.google.com",
+		"*.clients6.google.com",
+		"*.clients7.google.com",
+		"*.clients8.google.com",
+		"*.clients9.google.com",
+		"*.clients10.google.com"
+	],
+	"proprietary": {
+	}
+}
