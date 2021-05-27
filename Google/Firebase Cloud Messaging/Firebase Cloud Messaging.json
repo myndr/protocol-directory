@@ -10,6 +10,8 @@
 	"domain_definition": [
 		"firebaseio.com",
 		"*.firebaseio.com",
+		"app-measurement.com",
+		"*.app-measurement.com",
 		"fcm-stream.googleapis.com"
 	],
 	"shared_port": true,
