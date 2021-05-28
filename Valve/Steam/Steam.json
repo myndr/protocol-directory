@@ -21,7 +21,7 @@
 		"steamcontent.com",
 		"steamstatic.com"
 	],
-	"shared_ip": true,
+	"shared_ip": false,
 	"ip_definition": [
 		"45.121.184.0/23",
 		"45.121.186.0/23",
