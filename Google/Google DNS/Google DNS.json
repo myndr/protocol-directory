@@ -11,7 +11,8 @@
 	"ip_definition": ["8.8.4.4", "8.8.8.8"],
 	"shared_domain": false,
 	"domain_definition": [
-		"dns.google"
+		"dns.google",
+		"dns.google.com"
 	],
 	"proprietary": {
 		"ndpi": []
