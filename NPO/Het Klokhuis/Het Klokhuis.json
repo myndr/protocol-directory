@@ -1,0 +1,19 @@
+{
+	"service_types": {
+		"edu-video": 100
+	},
+	"shared_domain": false,
+	"domain_definition": [
+		"www.hetklokhuis.nl",
+		"*.hetklokhuis.nl",
+		"hetklokhuis.nl"
+	],
+	"shared_port": true,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"proprietary": {
+	}
+}

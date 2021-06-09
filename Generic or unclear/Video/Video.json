@@ -1,0 +1,18 @@
+{
+	"service_types": {
+		"video": 90
+	},
+	"versions": [],
+	"shared_port": true,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_domain": false,
+	"domain_definition": [
+		"david.li", "*.david.li",
+		"adultsswim.com", "*.adultsswim.com"
+	],
+	"shared_ip": false,
+	"ip_definition": [],
+	"proprietary": {}
+}

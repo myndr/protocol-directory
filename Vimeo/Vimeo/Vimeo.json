@@ -1,0 +1,20 @@
+{
+	"service_types": {
+		"video": 90
+	},
+	"shared_domain": false,
+	"domain_definition": [
+		"vimeo.com",
+		"*.vimeo.com",
+		"vimeo.eu",
+		"*.vimeo.eu",
+		"*.vimeocdn.com"
+	],
+	"shared_port": true,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [
+	]
+}
