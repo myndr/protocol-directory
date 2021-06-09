@@ -1,7 +1,6 @@
 {
 	"service_types": {
-		"game": 80,
-		"edu-practive" : 80
+		"game": 80
 	},
 	"shared_port": false,
 	"port_definition": {
