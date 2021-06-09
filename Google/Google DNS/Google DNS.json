@@ -1,0 +1,20 @@
+{
+	"service_types": {
+		"circumvent": 90
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": false,
+	"ip_definition": ["8.8.4.4", "8.8.8.8"],
+	"shared_domain": false,
+	"domain_definition": [
+		"dns.google",
+		"dns.google.com"
+	],
+	"proprietary": {
+		"ndpi": []
+	}
+}

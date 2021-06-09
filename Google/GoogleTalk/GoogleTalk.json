@@ -2,12 +2,11 @@
 	"service_types": {
 		"chat": 90
 	},
-	"alias": [
-		"XMPP"
-	],
+	"alias": [	],
 	"shared_domain": false,
 	"domain_definition": [
-		"talk.l.google.com"
+		"instantmessaging-pa.googleapis.com",
+		"*.instantmessaging-pa.googleapis.com"
 	],
 	"rights_management": false
 }
