@@ -1,0 +1,51 @@
+{
+	"provider": "NPO",
+	"name": "Zapp",
+	"service_types": {
+		"video": 90
+	},
+	"shared_domain": false,
+	"domain_definition": [
+		"www.zapp.nl",
+		"zapp.nl",
+		"assets-www.zapp.nl",
+		"topspin.npo.nl",
+		"ccm.npo.nl",
+		"images.poms.omroep.nl",
+		"atconnect.npo.nl",
+		"*.cdn.streamgate.nl",
+		"nl-ams-p1-am5.cdn.streamgate.nl",
+		"nl-ams-p2-am5.cdn.streamgate.nl",
+		"nl-ams-p3-am5.cdn.streamgate.nl",
+		"nl-ams-p4-am5.cdn.streamgate.nl",
+		"nl-ams-p5-am5.cdn.streamgate.nl",
+		"nl-ams-p6-am5.cdn.streamgate.nl",
+		"nl-ams-p7-am5.cdn.streamgate.nl",
+		"nl-ams-p8-am5.cdn.streamgate.nl",
+		"nl-ams-p9-am5.cdn.streamgate.nl",
+		"nl-ams-p10-am5.cdn.streamgate.nl",
+		"nl-ams-p11-am5.cdn.streamgate.nl",
+		"nl-ams-p12-am5.cdn.streamgate.nl",
+		"nl-ams-p13-am5.cdn.streamgate.nl",
+		"nl-ams-p14-am5.cdn.streamgate.nl",
+		"nl-ams-p15-am5.cdn.streamgate.nl",
+		"nl-ams-p16-am5.cdn.streamgate.nl",
+		"nl-ams-p17-am5.cdn.streamgate.nl",
+		"nl-ams-p18-am5.cdn.streamgate.nl",
+		"nl-ams-p19-am5.cdn.streamgate.nl",
+		"nl-ams-p20-am5.cdn.streamgate.nl",
+		"nl-ams-p21-am5.cdn.streamgate.nl",
+		"nl-ams-p22-am5.cdn.streamgate.nl",
+		"nl-ams-p23-am5.cdn.streamgate.nl",
+		"nl-ams-p24-am5.cdn.streamgate.nl",
+		"nl-ams-p25-am5.cdn.streamgate.nl",
+		"npo-drm-gateway.samgcloud.nepworldwide.nl"
+	],
+	"shared_port": true,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [
+	]
+}

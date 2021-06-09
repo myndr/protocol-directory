@@ -13,9 +13,14 @@
 	"domain_definition": [
 		"facebook.com",
 		"*.facebook.com",
+		"fbcdn.net",
+		"facebook.co.uk",
+		"*.facebook.co.uk",
+		"fbsbx.com",
+		"*.fbsbx.com",
 		"*.fbcdn.net"
 	],
-	"shared_ip": true,
+	"shared_ip": false,
 	"ip_definition": [
 		"129.134.0.0/17",
 		"146.88.59.0/24",

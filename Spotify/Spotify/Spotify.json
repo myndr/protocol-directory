@@ -3,6 +3,14 @@
 		"audio": 90
 	},
 	"versions": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"spotify.com",
+		"*.spotify.com",
+		"*.scdn.co",
+		"*.spotify.map.fastly.net",
+		"spotify.demdex.net"
+	],
 	"shared_ip": false,
 	"ip_definition": [
 		"192.121.132.0/24",

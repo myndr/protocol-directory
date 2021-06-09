@@ -35,7 +35,15 @@
 		"a1935.b.akamai.net",
 		"*.a1935.b.akamai.net",
 		"ibytedtos.com",
-		"*.ibytedtos.com"
+		"*.ibytedtos.com",
+		"byteoversea.com",
+		"*.byteoversea.com",
+		"byteoversea.com.edgekey.net",
+		"*.byteoversea.com.edgekey.net",
+		"ipstatp.com",
+		"*.ipstatp.com",
+		"ipstatp.com.edgesuite.net",
+		"*.ipstatp.com.edgesuite.net"
 
 	],
 	"proprietary": {

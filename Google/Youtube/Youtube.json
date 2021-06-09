@@ -22,7 +22,7 @@
 	"port_definition": {
 		"tcp": []
 	},
-	"shared_ip": true,
+	"shared_ip": false,
 	"ip_definition": [
 		"64.15.112.0/20",
 		"74.125.100.38/32",

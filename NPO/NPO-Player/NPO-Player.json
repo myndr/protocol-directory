@@ -1,0 +1,20 @@
+{
+	"service_types": {
+		"tool": 60
+	},
+	"shared_domain": false,
+	"domain_definition": [
+		"start-player.npo.nl"
+	],
+	"shared_port": true,
+	"port_definition": {
+		"tcp": [
+			80, 443
+		]
+	},
+	"shared_ip": false,
+	"ip_definition": [],
+	"proprietary": {
+		"ndpi": []
+	}
+}

@@ -22,7 +22,7 @@
 			5230
 		]
 	},
-	"shared_ip": true,
+	"shared_ip": false,
 	"ip_definition": [
 		"74.125.20.188",
 		"74.125.28.188",

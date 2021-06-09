@@ -9,7 +9,7 @@
 	"port_definition": {
 		"tcp": []
 	},
-	"shared_ip": true,
+	"shared_ip": false,
 	"ip_definition": [
 		"134.170.168.0/25",
 		"134.170.65.128/25",

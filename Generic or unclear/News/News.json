@@ -1,0 +1,40 @@
+{
+	"service_types": {
+		"news-intl": 90,
+		"news-ntl": 90
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"cnn.com",
+		"*.cnn.com",
+		"abcnews.com",
+		"*.abcnews.com",
+		"foxnews.com",
+		"*.foxnews.com",
+		"aljazeera.com",
+		"*.aljazeera.com",
+		"bbc.com",
+		"*.bbc.com",
+		"nos.nl",
+		"*.nu.nl",
+		"nu.nl",
+		"*.volkskrant.nl",
+		"volkskrant.nl",
+		"*.vk.nl",
+		"vk.nl",
+		"*.telegraaf.nl",
+		"telegraaf.nl",
+		"*.nrc.nl",
+		"nrc.nl",
+		"*.nos.nl"
+	],
+	"proprietary": {
+	}
+}

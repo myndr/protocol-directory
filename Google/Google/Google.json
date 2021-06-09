@@ -1,0 +1,21 @@
+{
+	"service_types": {
+		"search": 90,
+		"edu-source": 90
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"google.com",
+		"www.google.com",
+		"suggestqueries.google.com"
+	],
+	"proprietary": {
+	}
+}

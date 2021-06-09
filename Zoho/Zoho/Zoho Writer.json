@@ -1,0 +1,20 @@
+{
+	"service_types": {
+		"office": 80
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"writer.zoho.eu",
+		"writer.zoho.com"
+
+	],
+	"proprietary": {
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"service_types": {
+		"notif": 0,
+		"sms": 0,
+		"email": 0,
+		"audio": 0,
+		"video": 0,
+		"tool": 80,
+		"news-intl": 0,
+		"news-ntl": 0,
+		"news-lcl": 0,
+		"news-prs": 0,
+		"game": 0,
+		"chat": 0,
+		"edu-core": 0,
+		"edu-practice": 0,
+		"edu-video": 0,
+		"edu-sources": 0
+	},
+	"versions": [],
+	"shared_port": false,
+	"port_definition": {
+		"tcp": []
+	},
+	"shared_ip": true,
+	"ip_definition": [],
+	"shared_domain": false,
+	"domain_definition": [
+		"fontawesome.com",
+		"*.fontawesome.com"
+
+	],
+	"proprietary": {
+	}
+}
