@@ -1,0 +1,10 @@
+{
+	"service_types": {
+		"circumvent": 90
+	},
+	"shared_port": false,
+	"port_definition": {
+		"tcp": [500,4500],
+		"udp": [500,4500]
+	}
+}
