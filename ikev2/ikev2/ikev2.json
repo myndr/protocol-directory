@@ -4,7 +4,7 @@
 	},
 	"shared_port": false,
 	"port_definition": {
-		"tcp": [500,4500],
-		"udp": [500,4500]
+		"udp": [500,4500],
+		"esp": [50]
 	}
 }

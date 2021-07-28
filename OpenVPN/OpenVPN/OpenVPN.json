@@ -5,6 +5,6 @@
 	"shared_port": false,
 	"port_definition": {
 		"tcp": [853,8443],
-		"udp": [8080,853,123]
+		"udp": [8080,123]
 	}
 }

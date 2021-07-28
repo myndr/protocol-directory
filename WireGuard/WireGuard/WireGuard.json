@@ -4,7 +4,6 @@
 	},
 	"shared_port": false,
 	"port_definition": {
-		"tcp": [1337],
-		"udp": [1337]
+		"tcp": [1337]
 	}
 }
